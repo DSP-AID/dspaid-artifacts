@@ -1,0 +1,15 @@
+{
+  "schema": "dail-agent-action-v1",
+  "network": "near-testnet",
+  "bounty": "bnty_0452",
+  "agent_id": "dspaid",
+  "account": "dspaid-bounty452.testnet",
+  "agent_public_key": "ed25519:5dJR9sJWcYVifwLocBm7bD3o1RMAUWJTuNLxJZtKazKG",
+  "message": "DAiL AGENT ACTION ATTESTATION v1\nagent_id: dspaid\nagent_identity_key: ed25519:5dJR9sJWcYVifwLocBm7bD3o1RMAUWJTuNLxJZtKazKG\nchain: near-testnet\naccount: dspaid-bounty452.testnet\nbounty: bnty_0452\naction: add_function_call_access_key\nmethod_granted: execute_trade\ntrade_access_key: ed25519:6WMKaervKQvhMXkdGr48LVSYdmefFLCB86aBXGyAMm1N\ntimestamp: 2026-11-05T01:15:22.587Z",
+  "message_signature": "ed25519:QNVGjhpMoFXcW5aMbQjyYNpxoaiMwgGMaLNKnUuQtFwUEqUMdNaPtABEGj2AMdXm9mg3VGwLdRUV3vQHgsHqeZJ",
+  "tx_hash": "Hj5TPHTyBkFQ46BdsK4iWzMCCjJ9wTH7BcfB9Z6W7MPM",
+  "tx_signed_b64": "GAAAAGRzcGFpZC1ib3VudHk0NTIudGVzdG5ldABEu1mCvcDaQxBJ97g2bDiJuq8J4fRFaTpLbPsNRMhdz0EPaohE+wAAGAAAAGRzcGFpZC1ib3VudHk0NTIudGVzdG5ldCJVa26utMpY+TjeHttpfuQU4V52uy3pqnzMiA/u4ImOAQAAAAUAUc9BH3cv3EwmvkFx8gzh4Wgde/25z76s7G6BDbTMZrUAAAAAAAAAAAAAGAAAAGRzcGFpZC1ib3VudHk0NTIudGVzdG5ldAEAAAANAAAAZXhlY3V0ZV90cmFkZQAIr/HPw2WV7XRAI2Gwfw8FMeEOB4gJWPsyRbEnAq+t2O54iv5xWoiVRBmw0taW88wWgylw09mPgTQR3n3ChAsE",
+  "block_hash": "C1KHCVsj5WkWJLNvgMuhQkRhyQaoSfZPVHFDmMPsmK9d",
+  "explorer": "https://testnet.nearblocks.io/txns/Hj5TPHTyBkFQ46BdsK4iWzMCCjJ9wTH7BcfB9Z6W7MPM",
+  "broadcast_at": "2026-11-05T01:15:22.587Z"
+}

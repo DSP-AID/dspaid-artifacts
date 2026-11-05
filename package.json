@@ -1,0 +1,16 @@
+{
+  "name": "dail-verifiable-agent-action",
+  "version": "1.0.0",
+  "description": "Verifiable NEAR testnet agent action + attestation for DAiL bounty bnty_0452",
+  "type": "module",
+  "scripts": {
+    "sign": "node sign_action.mjs",
+    "verify": "node verify_action.mjs"
+  },
+  "dependencies": {
+    "@noble/hashes": "^2.2.0",
+    "@scure/base": "^2.2.0",
+    "near-api-js": "^7.4.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
