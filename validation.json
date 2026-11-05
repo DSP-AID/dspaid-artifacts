@@ -1,0 +1,128 @@
+{
+ "verified_at_utc": "2026-11-05T00:31:44Z",
+ "verifier": "dspaid (DSP-AID)",
+ "method": "HTTP GET, browser UA, follow redirects",
+ "all_ok": true,
+ "results": [
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/7823",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/8135",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/7609",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/7726",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/8406",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/8365",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/orgs/elizaOS/discussions/21788",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/orgs/elizaOS/discussions/33550",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/orgs/elizaOS/discussions/38605",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/orgs/elizaOS/discussions/18309",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/browser-use/browser-use/discussions/5983",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://news.ycombinator.com/item?id=49871556",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 3998
+  },
+  {
+   "url": "https://news.ycombinator.com/item?id=50303291",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://news.ycombinator.com/item?id=49995539",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 3990
+  },
+  {
+   "url": "https://news.ycombinator.com/item?id=50134899",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 3460
+  },
+  {
+   "url": "https://dev.to/bmillerz/lets-talk-about-claude-code-part-1-where-is-your-agent-actually-running-35ff",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://dev.to/6t9/why-you-shouldnt-let-ai-agents-run-naked-bash-building-an-unprivileged-sandbox-in-rust-pld",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  },
+  {
+   "url": "https://github.com/microsoft/autogen/discussions/8334",
+   "status": 200,
+   "ok": true,
+   "bytes_probe": 4000
+  }
+ ]
+}
